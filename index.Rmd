@@ -1,0 +1,29 @@
+---
+title: "Nicole Doran"
+image: "Gram1.jpg"
+links:
+  - label: Twitter
+    url: "https://twitter.com/NicoleDoran10"
+  - label: GitHub
+    url: "https://github.com/NCDoran"
+  - label: Email
+    url: "ncdoran@uw.edu"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Nicole Doran is a first year masters student at the University of Washington School of Aquatic and Fisheries Science. She obtained her B.S. in Biology from The Ohio State University in 2020. Her research interests include the intersection of climate change and invasive species and their impact on threatened fish populations.
+
+## Education
+
+**The Ohio State University** | Columbus, OH
+
+B.S. in Biology | August 2016 - May 2020
+
+**The University of Washington** | Seattle, WA
+
+Masters student in the School of Aquatic and Fisheries Science
+
+
